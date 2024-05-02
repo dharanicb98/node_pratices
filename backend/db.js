@@ -122,3 +122,14 @@ module.exports = {
   updateAllUsers,
   deleteAllUsers,
 };
+
+// create table from your database 
+// this using for curd operations  
+
+// CREATE TABLE product (
+//   id int PRIMARY KEY AUTO_INCREMENT,
+//   phone varchar(100),
+//   price INTEGER,
+//   brand VARCHAR(100),
+//   category VARCHAR(100),
+// )

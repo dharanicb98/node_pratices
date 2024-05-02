@@ -1,18 +1,19 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+[10:28 AM, 4/29/2024] Dharani CB: Ha
+[11:07 AM, 4/29/2024] prakash dumpa Skimbox: # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 #BackEnd dependencies
-/backend/node_modules
+/ini8_labs_be/node_modules
 
 #FrontEnd dependencies
-/frontend/node_modules
-/frontend/.pnp
-/frontend/.pnp.js
+/ini8_labs_fe/node_modules
+/ini8_labs_fe/.pnp
+/ini8_labs_fe/.pnp.js
 
 # testing
-/frontend/coverage
+/ini8_labs_fe/coverage
 
 # production
-/frontend/build
+/ini8_labs_fe/build
 
 # misc
 .DS_Store
